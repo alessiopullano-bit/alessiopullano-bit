@@ -8,7 +8,7 @@
   - Storia
   - Inglese
 
-**Interessi:**
+**Aree di interesse:**
   - Economia:
   - Attualità:
   - Politica:
@@ -21,3 +21,18 @@
 | Scienze | Biologia-Chimica | Intermedio |
 | Matematica | Logica-Algebra-Geometria | Intermedio |
 | Inglese | Writing-Speaking | Avanzato |
+
+**Progetti scolastici:**
+  1) b
+    - b
+    - b
+  3) b
+    - b
+    - b
+  4) b
+    - b
+    - b
+
+**Prospettive future:**
+  - Dopo le l'esame di maturità mi piacerebbe studiare al dipartimento di ingegneria aerospaziale del Politecnico di Milano
+  - Il mio sogno sarebbe poter applicare le mia conoscenze presenti e future nell'ambito militare
