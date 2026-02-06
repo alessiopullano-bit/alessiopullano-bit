@@ -23,15 +23,19 @@
 | Inglese | Writing-Speaking | Avanzato |
 
 **Progetti scolastici:**
-  1) b
-    - b
-    - b
-  3) b
-    - b
-    - b
-  4) b
-    - b
-    - b
+
+1. First list item
+   - First nested list item
+   - Second nested list item
+
+1. First list item
+   - First nested list item
+   - Second nested list item
+
+1. First list item
+   - First nested list item
+   - Second nested list item
+
 
 **Prospettive future:**
   - Dopo le l'esame di maturità mi piacerebbe studiare al dipartimento di ingegneria aerospaziale del Politecnico di Milano
